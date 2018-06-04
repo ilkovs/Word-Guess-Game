@@ -8,3 +8,19 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 50px;
 }
+
+.underscores {
+    color: red;
+}
+
+.wins {
+    color: red;
+}
+
+.numberOf {
+    color: red;
+}
+
+h3 {
+    color: red;
+}
